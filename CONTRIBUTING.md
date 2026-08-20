@@ -31,4 +31,4 @@ licence as the repository you sent it to.
 
 ## Security
 
-Never in a public issue — see [SECURITY.md](SECURITY.md).
+Never in a public issue — see [SECURITY.md](https://github.com/ZyxWorks/.github/blob/main/SECURITY.md).
