@@ -8,8 +8,8 @@ These are the tools we built for our own work and gave away. Both run on your ow
 
 | | |
 |---|---|
-| **[MurmurFlow](https://github.com/ZyxWorks/murmurflow)** | Press-to-talk dictation that runs on your own machine. Hold a key, say it, let go, and the words land at your cursor in any app. macOS and Windows. [Product page](https://zyxworks.github.io/murmurflow/) |
-| **[Agent Office](https://github.com/ZyxWorks/agent-office)** | Several coding agents in one tmux window, each in its own git worktree. The one that has stopped and is waiting on you says so on its border. [Product page](https://zyxworks.github.io/agent-office/) |
+| **[MurmurFlow](https://github.com/ZyxWorks/murmurflow)** | Dictation that runs on your own machine. Tap a key, talk, and the words land at your cursor in any app. macOS and Windows. [Product page](https://zyxworks.github.io/murmurflow/) |
+| **[Agent Office](https://github.com/ZyxWorks/agent-office)** | The whole setup for running several coding agents side by side, each in its own git worktree. You see which one needs you. macOS and Linux. [Product page](https://zyxworks.github.io/agent-office/) |
 
 **[zyx.works](https://zyx.works/en/)** ·
 [docs](https://zyx.works/docs/) ·
