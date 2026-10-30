@@ -27,4 +27,4 @@ written where it should not be, a permission asked for that is not needed, a she
 command built from text somebody else controls.
 
 `zyxworks.com` is out of scope here — mail the address in its
-[imprint](https://zyxworks.com/legal#imprint) instead.
+[imprint](https://zyxworks.com/en/legal/#imprint) instead.
