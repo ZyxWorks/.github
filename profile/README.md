@@ -10,7 +10,7 @@ These are the tools we built for our own work and gave away. Both run on your ow
 
 | | |
 |---|---|
-| **[MurmurFlow](https://github.com/ZyxWorks/murmurflow)** | Dictation that runs on your own machine. Tap a key, talk, and the words land at your cursor in any app. macOS and Windows. [Product page](https://zyxworks.github.io/murmurflow/) |
+| **[MurmurFlow](https://github.com/ZyxWorks/murmurflow)** | Dictation that runs on your own machine. Double-tap a key, talk, tap again: the words land at your cursor, in any app. macOS and Windows. [Product page](https://zyxworks.github.io/murmurflow/) |
 | **[Agent Office](https://github.com/ZyxWorks/agent-office)** | The whole setup for running several coding agents side by side, each in its own git worktree. You see which one needs you. macOS and Linux. [Product page](https://zyxworks.github.io/agent-office/) |
 
 **[zyx.works](https://zyx.works/en/)** ·
