@@ -1,22 +1,18 @@
 ## ZyxWorks
 
-A product studio and forward deployed engineering practice — **[zyxworks.com](https://zyxworks.com)**.
+We build **[Zyx](https://zyxworks.com/en/)**: ask your company, on your own server. One question across your mail, files and apps, with every answer naming its sources and a human approval before every risky change.
 
-These are the tools we built for our own work and gave away. Both run on your own machine,
-both are MIT, and neither one sends telemetry.
+These are the tools we built for our own work and gave away. Both run on your own machine, both are MIT, and neither one sends telemetry.
 
 | | |
 |---|---|
-| **[MurmurFlow](https://github.com/ZyxWorks/murmurflow)** | Press-to-talk dictation that runs on your own machine. Hold a key, say it, let go, and the words land at your cursor in any app. macOS and Windows. [Product page](https://zyxworks.github.io/murmurflow/) |
-| **[Agent Office](https://github.com/ZyxWorks/agent-office)** | Several coding agents in one tmux window, each in its own git worktree. The one that has stopped and is waiting on you says so on its border. [Product page](https://zyxworks.github.io/agent-office/) |
+| **[MurmurFlow](https://github.com/ZyxWorks/murmurflow)** | Dictation that runs on your own machine. Double-tap a key, talk, tap again: the words land at your cursor, in any app. macOS and Windows. [Product page](https://zyxworks.github.io/murmurflow/) |
+| **[Agent Office](https://github.com/ZyxWorks/agent-office)** | The whole setup for running several coding agents side by side, each in its own git worktree. You see which one needs you. macOS and Linux. [Product page](https://zyxworks.github.io/agent-office/) |
 
-Both came out of **[Zyx](https://zyxworks.com#zyx)**, the runtime the studio runs on: one AI you
-message like an employee and approve like the boss. Zyx is not open source, and putting it into a
-company's own tools is **[what we sell](https://zyxworks.com#fde)** — five phases, each with a
-date, finished inside 120 days.
+Zyx itself is not open source. It is in a private beta, set up by an engineer from ZyxWorks at your company.
 
-**[zyxworks.com](https://zyxworks.com)** ·
-[what we do for companies](https://zyxworks.com#fde) ·
+**[zyxworks.com](https://zyxworks.com/en/)** ·
+[docs](https://zyxworks.com/docs/) ·
 [the open source index](https://zyxworks.github.io/) ·
-[imprint](https://zyxworks.com/legal#imprint) ·
-[privacy](https://zyxworks.com/legal#privacy)
+[imprint](https://zyxworks.com/en/legal/#imprint) ·
+[privacy](https://zyxworks.com/en/legal/#privacy)
