@@ -3,6 +3,6 @@ contact_links:
   - name: Security problem
     url: https://github.com/ZyxWorks/.github/blob/main/SECURITY.md
     about: Never in a public issue. Use the Security tab's private report.
-  - name: What ZyxWorks does for companies
-    url: https://zyxworks.com
-    about: The studio behind these tools.
+  - name: Zyx, our product
+    url: https://zyx.works/en/
+    about: Ask your company. On your own server.

@@ -26,5 +26,5 @@ and hold no accounts of ours, so the interesting failures are local ones: a file
 written where it should not be, a permission asked for that is not needed, a shell
 command built from text somebody else controls.
 
-`zyxworks.com` is out of scope here — mail the address in its
-[imprint](https://zyxworks.com/legal#imprint) instead.
+`zyx.works` is out of scope here - mail the address in its
+[imprint](https://zyx.works/en/legal/#imprint) instead.
